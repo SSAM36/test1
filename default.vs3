@@ -1,8 +1,7 @@
-// Default VS3 file
-SADFdsfdsfdsfds
-FD
-F
-DSF
-DSF
-DS
-FDSf
+public function main takes byte b gives byte {
+    dec int a = 5?.
+  	dec int b = 3?.
+  	dec int c = (a + b) .
+  	call print with c .
+ }
+
